@@ -1,4 +1,4 @@
-## Programming Assignment #2
+## Programming Assignment #2 submit
 ## I will modify the example provided to cache the mean to cache the matrix inverse
 ## First function will identify the matrix to be cached
 ## Second function will calculate the inverse of the matrix to be cached
